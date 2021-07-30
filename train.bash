@@ -1,0 +1,1 @@
+python train.py --gpus=1 --max_epochs=3
